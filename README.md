@@ -46,9 +46,6 @@ cd supreme-adventure
 
 🌐 Live Demo
 
-Coming soon on GitHub Pages
-
-(After deployment, your link will look like this:)
 👉https://digitalboldblaq.github.io/Supreme-Advanture/
 
 
