@@ -183,6 +183,19 @@ font-size: 3.5rem;
     font-weight: bold;
     color: hsla(0,0%,0%,0.75);
 }
+
+
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+
+
+
+
+
  /* RESPONSITIVITY */
 @media (max-width:768px) {
     .card{
